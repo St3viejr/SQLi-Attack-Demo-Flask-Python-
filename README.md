@@ -1,5 +1,3 @@
-# SQLi-Attack-Demo-Flask-Python
-
 # Secure Login App (SQL Injection Mitigation Demo)
 
 A simple Python web application built with the **Flask** framework that demonstrates how to **prevent** a classic SQL Injection (SQLi) attack by using secure coding practices.
